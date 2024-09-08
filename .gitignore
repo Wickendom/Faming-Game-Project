@@ -10,6 +10,12 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/Assets/Better UI/
+/Assets/TheraBytes/
+/Assets/TextMesh Pro/
+/Assets/Tile Assets/
+/Assets/Smart 2D Lighting/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
